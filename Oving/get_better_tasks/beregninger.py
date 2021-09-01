@@ -14,8 +14,6 @@ d = r*2 #diameter for en sirkel
 
 
 
-d = r*2 #diameter for en sirkel
-h = 7.9 #høyde
 
 A_sirkel = math.pi * r**2
 omkrets = math.pi*d
