@@ -41,4 +41,3 @@ while True:
             robot.stop()
             ev3.speaker.say("Exercise 2 done")
             start = 0
-lego øving 2
